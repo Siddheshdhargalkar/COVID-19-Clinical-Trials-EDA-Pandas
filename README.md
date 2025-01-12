@@ -16,18 +16,20 @@ Study status (ongoing/completed)
 Phases and participant demographics
 Clean and preprocess data
 Create visualizations for insights
+
 Methodology
 Data Acquisition: Downloaded XML and CSV files.
 Data Cleaning: Processed XML files and structured data using Pandas.
 EDA: Conducted statistical analysis to identify key metrics.
 Visualization: Used Matplotlib & Seaborn for visualizations.
 Reporting: Compiled findings into a structured report.
+
 Tools & Technologies
 Python: Data cleaning, analysis, and visualization
 Pandas: Data handling and analysis
 Matplotlib & Seaborn: Visualizations
 SQL & Excel: Data querying and exploration
+
 Acknowledgments
 This dataset is provided by ClinicalTrials.gov via the U.S. National Library of Medicine.
-
 Dataset Source: Kaggle by Parul Pandey
